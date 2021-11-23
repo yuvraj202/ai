@@ -1,0 +1,38 @@
+body
+{
+    background: url('i1.jpg');
+    background-size: cover;
+    
+}
+
+.heading
+{
+    padding-left: 90px;
+    padding-right: 90px;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+#h1
+{
+    color: white;
+    font-size: 30px ;
+    font-weight: bold;
+}
+
+canvas
+{
+    box-shadow: 50px 50px 50px white;
+    border:5px solid rgb(56, 102, 255);
+    border-radius: 50px;
+    background-color: whitesmoke;
+    margin-top: 12%;
+    
+}
+
+.song
+{
+    font-size: 20px;
+    font-family: monospace;
+}
